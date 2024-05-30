@@ -1,0 +1,2 @@
+# zcmd
+simple command line
